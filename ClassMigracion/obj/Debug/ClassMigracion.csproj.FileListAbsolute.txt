@@ -1,0 +1,10 @@
+C:\Users\mcmen\source\repos\MigrarBaseMysql_Sql\ClassMigracion\bin\Debug\ClassMigracion.dll
+C:\Users\mcmen\source\repos\MigrarBaseMysql_Sql\ClassMigracion\bin\Debug\ClassMigracion.pdb
+C:\Users\mcmen\source\repos\MigrarBaseMysql_Sql\ClassMigracion\bin\Debug\MySql.Data.dll
+C:\Users\mcmen\source\repos\MigrarBaseMysql_Sql\ClassMigracion\obj\Debug\ClassMigracion.csproj.AssemblyReference.cache
+C:\Users\mcmen\source\repos\MigrarBaseMysql_Sql\ClassMigracion\obj\Debug\ClassMigracion.csproj.CoreCompileInputs.cache
+C:\Users\mcmen\source\repos\MigrarBaseMysql_Sql\ClassMigracion\obj\Debug\ClassMigracion.csproj.CopyComplete
+C:\Users\mcmen\source\repos\MigrarBaseMysql_Sql\ClassMigracion\obj\Debug\ClassMigracion.dll
+C:\Users\mcmen\source\repos\MigrarBaseMysql_Sql\ClassMigracion\obj\Debug\ClassMigracion.pdb
+C:\Users\mcmen\source\repos\MigrarBaseMysql_Sql\ClassMigracion\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\mcmen\source\repos\MigrarBaseMysql_Sql\ClassMigracion\bin\Debug\Ubiety.Dns.Core.dll
